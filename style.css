@@ -1,0 +1,15 @@
+body {
+    display: block;
+    margin-right: 200px;
+    margin-bottom: 200px;
+}
+p {
+    font-size: 15px;
+    margin: 0;
+}
+
+@media (max-width: 720px) {
+    .hemi-section {
+        width: 75%;
+    }
+}
